@@ -7,7 +7,9 @@
 
 ## Data Columns
 USER_ID: 사용자 ID
+
 VARIANT_NAME: CONTROL(대조군), VARIANT(실험군)
+
 REVENUE: 수익(매출)
 
 ---
