@@ -15,12 +15,14 @@ REVENUE: 수익(매출)
 사용자는 무작위로 다음 두 그룹 중 하나에 배정됩니다:
 
 Control 그룹: 기존 페이지를 본 사용자
+
 Variant 그룹: 새로운 페이지를 본 사용자
 
 가설은 다음과 같습니다:
 
-귀무가설(H0): Control의 수익 > Variant의 수익
-대립가설(H1): Variant의 수익 < Control의 수익
+귀무가설(H0): Control의 수익 < Variant의 수익
+
+대립가설(H1): Variant의 수익 > Control의 수익
 
 ---
 
